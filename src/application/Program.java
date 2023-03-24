@@ -7,6 +7,9 @@ import java.util.function.Predicate;
 
 import entites.Product;
 
+/*Fazer um programa que, a partir de uma lista de produtos, remova da
+lista somente aqueles cujo preço mínimo seja 100.*/
+
 public class Program {
 
 	public static void main(String[] args) {
